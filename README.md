@@ -7,3 +7,5 @@
 # kulang paman daw
 
 # pun an natu ug gamay
+
+# nawala ang error
